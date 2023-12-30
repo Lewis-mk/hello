@@ -27,3 +27,20 @@
 #     if _ == 2:
 #         s.remove(2)
 # print(f"there are {len(s)} elements which are",s)
+
+# dictionaries
+#
+# student = {
+#     "name": "lewis",
+#     "age": 21,
+#     "country": "kenya"
+# }
+# print(student["age"])
+#
+
+# function in python
+#
+# def square(x):
+#     return x * x
+# for i in range(2,10):
+#     print(square(i))
